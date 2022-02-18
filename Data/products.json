@@ -1,0 +1,27 @@
+    [
+        {
+            "id": 1,
+            "product_name": "Chicken - Leg, Boneless",
+            "weight": 2
+        },
+        {
+            "id": 2,
+            "product_name": "Tea - Vanilla Chai",
+            "weight": 5
+        },
+        {
+            "id": 3,
+            "product_name": "Galliano",
+            "weight": 4
+        },
+        {
+            "id": 4,
+            "product_name": "Longos - Lasagna Veg",
+            "weight": 3
+        },
+        {
+            "id": 5,
+            "product_name": "Scrubbie - Scotchbrite Hand Pad",
+            "weight": 5
+        }
+    ]
